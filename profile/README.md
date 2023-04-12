@@ -4,6 +4,8 @@
 
 > "일상 속 색다른 재미"
 
+<img src="https://img.shields.io/badge/Unity-3178C6?style=flat&logo=Unity&logoColor=white"/>
+
 <br/>
 
 # 소개
