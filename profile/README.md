@@ -34,41 +34,30 @@
 
 ### 2021년,
   - \<Enchant Shooter>
-  
     - 탑 뷰 아케이드 슈팅 게임.
     - 성공회대학교 교내 공모전, '제12회 성공회대학교 IT&미디어콘텐츠 경진대회' 출품. (종합 3위 수상)
 
 ### 2022년,
   - \<Crashy Road>
-  
     - 아케이드 미니 레이싱 게임.
     - 성공회대학교 2022년 졸업 작품 전시회 출품.
     - Stove Indie 스토어 데모 버전 출시.
     - MWU Korea Award 2022 출품.
     
-  - \<Crose Poly Combat>
-  
+  - \<Close Poly Combat>
     - CQC 훈련장 컨셉의 FPS 프로토타입 게임.
-  
-  - \<Word Quizer>
-  
-    - 영어 단어 암기장 제작 토이 프로젝트.
 
 ### 현재 준비 중인 프로젝트들,
   - \<Crashy Road> (Remake)
-  
     - 2022년 작품의 리메이크.
   
   - \<Survival Scenario>
-  
     - 텍스트 및 버튼으로 구성된 서바이벌 게임.
  
   - \<Close Poly Combat> (Remake)
-  
     - 2022년 작품의 리메이크.
  
   - \<Enchant Shooter> (Remake)
-  
     - 2021년 작품의 리메이크.
 
 <br/>
