@@ -41,7 +41,7 @@
   - \<Crashy Road>
     - 아케이드 미니 레이싱 게임.
     - 성공회대학교 2022년 졸업 작품 전시회 출품.
-    - ~~Stove Indie 스토어 데모 버전 출시.~~ (리메이크 버전과 프로젝트 이름 충돌로 인해 판매 중단: 2023/05/02 기준)
+    - Stove Indie 스토어 데모 버전 출시.
     - MWU Korea Award 2022 출품.
     
   - \<Close Poly Combat>
