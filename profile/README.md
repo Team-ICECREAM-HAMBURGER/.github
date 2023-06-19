@@ -1,4 +1,4 @@
-# Team IceCream Hamburger [Team ICH]
+# Team ICECREAM HAMBURGER [Team ICH]
 
 ![TeamICH](https://user-images.githubusercontent.com/62886544/231495377-a81b9c19-3415-4611-a3ac-e12413c662d2.png)
 
