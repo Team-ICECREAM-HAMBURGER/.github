@@ -2,9 +2,7 @@
 
 ![TeamICH](https://user-images.githubusercontent.com/62886544/231495377-a81b9c19-3415-4611-a3ac-e12413c662d2.png)
 
-> "일상 속 색다른 재미"
-
-<img src="https://img.shields.io/badge/Unity-3178C6?style=flat&logo=Unity&logoColor=white"/>
+> ## "일상 속 색다른 재미"
 
 <br/>
 
@@ -56,7 +54,7 @@
   - 변경된 게임성에 맞춰서 대폭 수정된 레벨 디자인.
   - 아케이드 레이싱 게임 스타일에 맞춰서 대폭 개선된 자동차 조작감.
   - 라이팅, 그림자 등 기존보다 더욱 향상된 그래픽 퀄리티.
-  - Stove Indie 스토어 데모 버전 출시 예정. (2023/05/02 기준)
+  - Stove Indie 스토어 데모 버전 출시 예정. (2023/06/19 기준)
     
 ### 개발 예정 중인 프로젝트들,
 \<Survival Scenario>
