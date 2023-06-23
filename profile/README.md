@@ -2,8 +2,6 @@
 
 ![TeamICH](https://user-images.githubusercontent.com/62886544/231495377-a81b9c19-3415-4611-a3ac-e12413c662d2.png)
 
-> ## "일상 속 색다른 재미"
-
 <br/>
 
 # 소개문
