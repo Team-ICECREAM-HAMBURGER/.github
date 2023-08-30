@@ -1,4 +1,4 @@
-<img width="632" alt="image" src="https://github.com/Team-IceCreamHamburger/.github/assets/62886544/73f24b4d-5ed7-47d9-bce2-84017fe316ee"># Team ICECREAM HAMBURGER [Team ICH]
+
 
 ![TeamICH](https://user-images.githubusercontent.com/62886544/231495377-a81b9c19-3415-4611-a3ac-e12413c662d2.png)
 
