@@ -52,13 +52,13 @@ E-mail: <kimsk200012@gmail.com>
   - MWU Korea Award 2022 출품.
   - 출시 스토어 링크 (Stove INDE): https://indie.onstove.com/ko/games/1086
   - Github 링크: https://github.com/Team-IceCreamHamburger/Crashy-Road_2022
-    
-\<Close Poly Combat> (2022)
-  - CQC 훈련장 속 미로를 최대한 빨리 탐색하며 모든 타깃을 제거하는 FPS 프로토타입 게임.
-  - FPS 장르의 구성 요소 및 동작 원리 학습을 위한 실습 프로젝트.
-  - Github 링크: https://github.com/Team-IceCreamHamburger/Close-Poly-Combat_2022
 
 ### 2023년,
+\<Close Poly Combat> (2023)
+  - CQC 훈련장 속 미로를 최대한 빨리 탐색하며 모든 타깃을 제거하는 FPS 프로토타입 게임.
+  - FPS 장르의 구성 요소 및 동작 원리 학습을 위한 실습 프로젝트.
+  - Github 링크: https://github.com/Team-IceCreamHamburger/Close-Poly-Combat_2023
+
 \<Crashy Road> (2023)
   - \<Crashy Road> (2022)의 리메이크 작품.
   - 경찰의 추격을 피해 도심 속을 최대한 오랫동안 질주하며 하이 스코어를 노리는 아케이드 미니 레이싱 게임.
