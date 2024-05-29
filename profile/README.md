@@ -19,7 +19,7 @@
 <br/>
 
 # 연락처
-E-mail: <kimsk200012@gmail.com>
+E-mail: <seung.ki200012@gmail.com>
 
 <br/>
 
