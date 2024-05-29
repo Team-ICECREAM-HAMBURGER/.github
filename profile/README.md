@@ -24,7 +24,7 @@ E-mail: <kimsk200012@gmail.com>
 <br/>
 
 # 팀 구성
-- Programming & Design 'wlvlrtm'
+- Programming & Design 'Seung-Ki, Kim'
 - Art & VFX 'iyuna6577'
 
 팀 아이스크림 햄버거 멤버의 구성은 추후 사정에 따라 변경될 수 있습니다.
