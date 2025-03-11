@@ -40,7 +40,7 @@ E-mail: <seung.ki200012@gmail.com>
   - 획득한 속성 탄환을 속성 간의 상성 관계에 맞게 사용하면 시너지 효과 발생.
   - 맵 곳곳에 등장하는 무기 아이템, 생명 아이템, 방어 아이템을 획득하며 최대한 오래 살아남는 것이 목표.
   - 성공회대학교 교내 공모전, '제12회 성공회대학교 IT&미디어콘텐츠 경진대회' 출품. (종합 3위 수상)
-  - Github 링크: https://github.com/Team-IceCreamHamburger/Enchant-Shooter_2021
+  - Github 링크: https://github.com/Team-ICECREAM-HAMBURGER/Enchant-Shooter_2021
 
 ### 2022년,
 \<Crashy Road> (2022)
@@ -51,13 +51,13 @@ E-mail: <seung.ki200012@gmail.com>
   - Stove Indie 스토어 데모 버전 출시.
   - MWU Korea Award 2022 출품.
   - 출시 스토어 링크 (Stove INDE): https://indie.onstove.com/ko/games/1086
-  - Github 링크: https://github.com/Team-IceCreamHamburger/Crashy-Road_2022
+  - Github 링크: https://github.com/Team-ICECREAM-HAMBURGER/Crashy-Road_2022
 
 ### 2023년,
 \<Close Poly Combat> (2023)
   - CQC 훈련장 속 미로를 최대한 빨리 탐색하며 모든 타깃을 제거하는 FPS 프로토타입 게임.
   - FPS 장르의 구성 요소 및 동작 원리 학습을 위한 실습 프로젝트.
-  - Github 링크: https://github.com/Team-IceCreamHamburger/Close-Poly-Combat_2023
+  - Github 링크: https://github.com/Team-ICECREAM-HAMBURGER/Close-Poly-Combat_2023
 
 \<Crashy Road> (2023)
   - \<Crashy Road> (2022)의 리메이크 작품.
@@ -71,7 +71,7 @@ E-mail: <seung.ki200012@gmail.com>
   - MWU Korea Award 2023 출품.
   - GIGDC 2023 출품.
   - 출시 스토어 링크: (링크)
-  - Github 링크: https://github.com/Team-IceCreamHamburger/Crashy-Road_2023
+  - Github 링크: https://github.com/Team-ICECREAM-HAMBURGER/Crashy-Road_2023
     
 ### 개발 중인 프로젝트,
 \<Survival Scenario> 
@@ -80,7 +80,7 @@ E-mail: <seung.ki200012@gmail.com>
   - 각 지역마다 제공되는 시나리오를 따라가며 무사히 안전 지대까지 도달하는 것이 목표.
   - SNS 앱과 유사한 디자인을 가지며, PC 화면 한 쪽 구석에 켜두고 간간히 버튼을 눌러가며 플레이하는 '방치형 게임' 스타일을 적용.
   - 플레이어는 화면에 표시되는 특정 기능의 버튼, 게임 속 상황을 서술하는 텍스트만으로 캐릭터의 처한 상황을 상상하며 게임을 플레이.
-  - Github 링크: https://github.com/Team-IceCreamHamburger/Survival-Scenario_2023
+  - Github 링크: https://github.com/Team-ICECREAM-HAMBURGER/Survival-Scenario_2023
 
 ### 개발 예정인 프로젝트들,
 \<Close Poly Combat> (Remake)
